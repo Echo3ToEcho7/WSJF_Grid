@@ -1,7 +1,7 @@
 {
     "name": "WSJF_Grid",
     "className": "CustomApp",
-    "server": "https://rally1.rallydev.com",
+    "server": "demo02.rallydev.com",
     "sdk": "2.0rc1",
     "remote_javascript": [
     ],

@@ -89,7 +89,7 @@ module.exports = function(grunt) {
     rallydeploy: {
       options: {
         server: config.server,
-        projectOid: 0,
+        projectOid: 719367,
         deployFile: "deploy.json",
         credentialsFile: "credentials.json",
         timeboxFilter: "none"
